@@ -48,6 +48,7 @@ button {
   color: whitesmoke;
   font-size: 18px;
   justify-self: center;
+  outline: none;
 }
 
 button:hover {
